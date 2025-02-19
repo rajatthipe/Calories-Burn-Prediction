@@ -11,7 +11,7 @@ Regular exercise is essential for maintaining a healthy lifestyle.  Accurate est
 The dataset used in this project contains information about individuals and their physical activities.  It includes the following features:
 
 * **Age:** Age of the individual (years).
-* **Gender:** Gender of the individual (e.g., Male, Female).  *(Note: Consider one-hot encoding or other suitable representation for this categorical feature during data preprocessing.)*
+* **Gender:** Gender of the individual (e.g., Male, Female). 
 * **Height:** Height of the individual (cm or inches).
 * **Weight:** Weight of the individual (kg or lbs).
 * **Duration:** Duration of the physical activity (minutes).
